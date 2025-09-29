@@ -31,3 +31,14 @@
 ### [Air-Liquide-Quant-Analysis-GEM-finance-club](https://github.com/gabrielealberto/Air-Liquide-Quant-Analysis-GEM-finance-club)
 Il mio progetto migliore: analisi quantitativa per Air Liquide con approccio di data analysis e modellazione finanziaria.
 
+
+## 📲 Contact Information
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriele-alberto/) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabriele.alberto@grenoble-em.com)
+
+</div>
+
+📢 Open to collaborations and internship opportunities in **trading and asset-management**.
+
