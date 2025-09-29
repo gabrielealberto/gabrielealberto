@@ -1,16 +1,32 @@
-## Hi there 👋
+<h1 align="center">Gabriele ALBERTO</h1>
 
-<!--
-**gabrielealberto/gabrielealberto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+<p align="right">
+  <strong>About Me:</strong>  
+  Appassionato di finanza quantitativa e data analysis. Mi piace lavorare su progetti che uniscono programmazione e finanza.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💻 Skills
+
+### Programming Languages
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</p>
+
+### Data Analysis & Visualization
+<p align="center">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" />
+</p>
+
+---
+
+## 📂 Projects
+
+### [Air-Liquide-Quant-Analysis-GEM-finance-club](https://github.com/gabrielealberto/Air-Liquide-Quant-Analysis-GEM-finance-club)
+Il mio progetto migliore: analisi quantitativa per Air Liquide con approccio di data analysis e modellazione finanziaria.
+
