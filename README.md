@@ -31,6 +31,8 @@
 ### [Air-Liquide-Quant-Analysis-GEM-finance-club](https://github.com/gabrielealberto/Air-Liquide-Quant-Analysis-GEM-finance-club)
 Il mio progetto migliore: analisi quantitativa per Air Liquide con approccio di data analysis e modellazione finanziaria.
 
+### [VaR- Value at Risk](https://github.com/gabrielealberto/VaR)
+
 
 ## 📲 Contact Information
 
