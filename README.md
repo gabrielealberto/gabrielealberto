@@ -1,15 +1,15 @@
-<h1 align="center">Gabriele ALBERTO</h1>
+<div align="center">
+  
+#  Gabriele ALBERTO
+
+</div>
+
+## About Me 
+  Hi, I’m Gabriele Alberto, a first-year Master’s student at Grenoble École de Management, specializing in financial markets, derivatives, and statistics. I am passionate about quantitative analysis and       programming, with the goal of pursuing a career in trading. I aim to apply the knowledge acquired during my studies to real-world scenarios, leveraging data analysis and data science to generate actionable     insights.
 
 ---
 
-<p align="right">
-  <strong>About Me:</strong>  
-  Appassionato di finanza quantitativa e data analysis. Mi piace lavorare su progetti che uniscono programmazione e finanza.
-</p>
-
----
-
-## 💻 Skills
+## 🔧 Skills
 
 ### Programming Languages
 <p align="center">
@@ -21,6 +21,7 @@
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter">
 </p>
 
 ---
