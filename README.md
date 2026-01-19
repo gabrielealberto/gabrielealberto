@@ -28,6 +28,9 @@
 
 ## 📂 Projects
 
+### [Binomial Option Pricer](https://github.com/gabrielealberto/Binomial-Option-Pricer)
+- This notebook implements the Cox-Ross-Rubinstein (CRR) binomial tree method to value equity options. It supports both European and American exercise styles (Calls & Puts) and includes tools to visualize the backward induction process through an interactive value tree.
+
 ### [Air-Liquide-Quant-Analysis-GEM-finance-club](https://github.com/gabrielealberto/Air-Liquide-Quant-Analysis-GEM-finance-club)
 - Conducted a quantitative analysis of Air Liquide to provide investment recommendations on whether to buy the stock.
 
