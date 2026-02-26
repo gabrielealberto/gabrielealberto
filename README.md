@@ -31,7 +31,7 @@
 ### [Binomial Option Pricer](https://github.com/gabrielealberto/Binomial-Option-Pricer)
 - This notebook implements the Cox-Ross-Rubinstein (CRR) binomial tree method to value equity options. It supports both European and American exercise styles (Calls & Puts) and includes tools to visualize the backward induction process through an interactive value tree.
 
-### [Systematic vs Idiosyncratic Volatility Across Crisis Regimes]([https://github.com/gabrielealberto/Binomial-Option-Pricer](https://github.com/gabrielealberto/Systematic-vs-Idiosyncratic-Volatility-Across-Crisis-Regimes-))
+### [Systematic vs Idiosyncratic Volatility Across Crisis Regimes](https://github.com/gabrielealberto/Systematic-vs-Idiosyncratic-Volatility-Across-Crisis-Regimes)
 - Quantitative study of systematic and idiosyncratic volatility dynamics across major crisis periods (2007–2025), comparing S&P 400 and Nifty 100 constituents through rolling regressions, CAPM decomposition, and time-varying risk analysis.
 
 ### [Air-Liquide-Quant-Analysis-GEM-finance-club](https://github.com/gabrielealberto/Air-Liquide-Quant-Analysis-GEM-finance-club)
