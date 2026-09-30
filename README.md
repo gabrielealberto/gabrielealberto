@@ -55,13 +55,14 @@ I am particularly interested in roles at the intersection of markets, risk and q
 
 ## Selected Projects
 
-| Project | What it demonstrates |
+| Project | Description |
 |---|---|
 | [LDI cash-flow matching](https://github.com/gabrielealberto/LDI_project) | Python engine for liability-driven bond portfolio construction. Integrates bond market data, ECB Svensson curves, Italian FOI and Euro Area HICP inflation data; generates validated cash flows, solves an optimization problem and produces Excel, stress-test and Parquet audit outputs. |
 | [SABR volatility calibration](https://github.com/gabrielealberto/SABR) | End-to-end option-chain workflow for European options: data cleaning, forward estimation through put-call parity, Black-76 implied volatility inversion, SABR HKLW calibration, diagnostic checks and 2D/3D volatility-surface visualizations. |
 | [Systematic vs Idiosyncratic Volatility Across Crisis Regimes](https://github.com/gabrielealberto/Systematic-vs-Idiosyncratic-Volatility-Across-Crisis-Regimes) | Academic empirical finance study comparing S&P 400 and Nifty 100 risk dynamics from 2007 to 2025 using rolling CAPM, crisis-regime analysis, AR models and Newey-West HAC standard errors. |
 | [Binomial Option Pricer](https://github.com/gabrielealberto/Binomial-Option-Pricer) | Vectorized Cox-Ross-Rubinstein option pricer for European and American equity options, using real market data, historical volatility estimation, dividend yield assumptions and put-call parity checks. |
 | [Historic VaR](https://github.com/gabrielealberto/VaR) | Historical VaR and CVaR analysis on an ETF portfolio, with return aggregation, absolute risk measures and visualization of tail losses. |
+| [Life Insurance Simulator](https://github.com/gabrielealberto/life-insurance-simulator) | Python tool for estimating annual and monthly life insurance premiums from age, insured capital, contract term and mortality data, with a dashboard for quick visualization. |
 | [Air Liquide Quantitative Analysis](https://github.com/gabrielealberto/Air-Liquide-Quant-Analysis-GEM-finance-club) | Equity analysis project covering performance, volatility, Sharpe ratio, drawdowns, VaR/CVaR and Monte Carlo simulation for investment discussion within the GEM Finance Society. |
 
 ---
@@ -71,11 +72,3 @@ I am particularly interested in roles at the intersection of markets, risk and q
 I am building a profile around quantitative markets work: pricing, risk measurement, portfolio construction, backtesting and robust data workflows.
 
 I am open to internship opportunities in market risk, trading analytics, structured products, asset management and quantitative research for 2027.
-
----
-
-<div align="center">
-
-**Markets, models, data and code.**
-
-</div>
